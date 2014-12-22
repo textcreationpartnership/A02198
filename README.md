@@ -35,11 +35,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An aunsvver to George Giffords pretended defence of read prayers and devised leitourgies with the vn
+
+1. To the Christian Reader / grace and peace from God our Father and Iesus Christ our Lord.
+
+1. ¶ TO THE CHRISTIAN READER.
+
+1. The preface
+
 #####Body#####
 
-1. IOHN GREENWOODS ANSWER. Wisdome is Iustified of her Children.
+1. GEORGE GIFFORD.
+
+    _ IOHN GREENWOODS ANSWER. Wisdome is Iustified of her Children.
 The first Argument against read prayer, &c.No Apocrypha must be brought into the publique assembliesThe second Argument.We must do nothing in the worship of God without warrant of his worde. •ut read The third Argument.We may not in the worship of God receaue anie tradition which bringeth our libertThe fourth Argument.Because true prayer must be of faith, vttered with heart & liuely voi••: It is pA generall Argument against their vvorship, in respect of their present estate, both of Ministers an
+1. A Fewe obseruations of Mr. Giffards last cavills about stinted read prayers / and devised Leitourgies.
+
 **Types of content**
 
   * There are 18 **drama** parts! This is **prose drama**.
